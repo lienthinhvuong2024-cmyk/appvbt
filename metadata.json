@@ -1,0 +1,8 @@
+{
+  "name": "EduCanvas - Interactive Homework",
+  "description": "Biến mọi bài tập giấy thành tờ bài làm kỹ thuật số tương tác với AI hỗ trợ chấm bài.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
